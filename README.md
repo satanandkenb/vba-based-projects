@@ -444,14 +444,13 @@ End Sub
 ## 📸 Screenshots
 
 ### Master Form - Transaction Entry
-![Master Form](https://via.placeholder.com/800x500/667eea/ffffff?text=Master+Form+-+Transaction+Entry)
-
+![Master Form](https://github.com/user-attachments/assets/add91d55-e194-4ae0-8d24-d31893e7cac5)
 *Features: Date picker, Part No dropdown, auto-populated description, quantity input*
 
 ---
 
 ### Add to Inventory Form
-![Add Inventory](https://via.placeholder.com/800x500/764ba2/ffffff?text=Add+to+Inventory+Form)
+![Add Inventory](https://github.com/user-attachments/assets/4b05998d-e28f-459e-b2ff-4b99d1deccec)
 
 *Features: Brand name, part number selection, opening quantity, rack location*
 
@@ -465,14 +464,14 @@ End Sub
 ---
 
 ### Inventory Sheet - Master Ledger
-![Inventory Sheet](https://via.placeholder.com/800x500/2196F3/ffffff?text=Inventory+Master+Sheet)
+![Inventory Sheet](https://github.com/user-attachments/assets/cd50ad9f-6452-4b64-8fc0-5bb6e459abff)
 
 *Real-time stock levels, reorder alerts, rack locations*
 
 ---
 
 ### Summary Dashboard
-![Summary Dashboard](https://via.placeholder.com/800x500/FF9800/ffffff?text=Summary+Dashboard)
+![Summary Dashboard : Coming soon..]()
 
 *Key metrics, low stock alerts, inventory analytics*
 
@@ -589,11 +588,8 @@ End Sub
 
 ### Getting Help
 
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- 📖 **Documentation**: [Full Guide](#)
-- 🎥 **Video Tutorial**: [YouTube Link](#)
-- 💬 **Community**: [Discussion Forum](#)
+- 📧 **Email**: satanand74@gmail.com
+- 💼 **LinkedIn**: [Satanand](https://www.linkedin.com/in/satanand-5bb0b1240/)
 
 ### Customization Services
 
