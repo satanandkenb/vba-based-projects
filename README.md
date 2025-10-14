@@ -408,8 +408,8 @@ End Sub
 
 ### Setup Steps
 
-1. **Download the File**
-          [IMS_InventoryManagement.xlsm](https://github.com/satanandkenb/vba-based-projects/blob/main/INVENTORY_WORKBOOK.xlsm)
+1. **Download the File : **
+   - [Click Here for Micro Enable MS Excel Sheet.](https://github.com/satanandkenb/vba-based-projects/blob/main/INVENTORY_WORKBOOK.xlsm)
 
 3. **Enable Macros**
    - Open the file
