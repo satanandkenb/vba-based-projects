@@ -409,32 +409,30 @@ End Sub
 ### Setup Steps
 
 1. **Download the File**
-   ```
-   Download: IMS_InventoryManagement.xlsm
-   ```
+          [IMS_InventoryManagement.xlsm](https://github.com/satanandkenb/vba-based-projects/blob/main/INVENTORY_WORKBOOK.xlsm)
 
-2. **Enable Macros**
+3. **Enable Macros**
    - Open the file
    - Click "Enable Content" if prompted
    - Save as .xlsm (macro-enabled) format
 
-3. **Configure SKU List**
+4. **Configure SKU List**
    - Go to SKU LIST sheet
    - Add your part numbers in column A
    - Add descriptions in column B
    - Add unit names in column C
 
-4. **Set Up Inventory Sheet**
+5. **Set Up Inventory Sheet**
    - Add initial stock if converting from existing system
    - Set reorder levels for each item
    - Assign rack locations
 
-5. **Test the Forms**
+6. **Test the Forms**
    - Open Master Form
    - Test with sample data
    - Verify data flows to correct sheets
 
-6. **Customize (Optional)**
+7. **Customize (Optional)**
    - Modify form colors
    - Adjust field labels
    - Add additional fields as needed
